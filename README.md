@@ -44,6 +44,7 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+![image alt](https://github.com/Abhilash4343/EXP-1/blob/23ccdf378565f23f183d188362462651427271d1/Screenshot%202026-10-21%20113157.png)
  
 
 
