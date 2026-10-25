@@ -1,4 +1,3 @@
-https://github.com/Abhilash4343/EXP-1/blob/9839d44df4c54c1c8db3dcfad3cd9cb161f5b2e3/Screenshot%202026-10-21%20113237.png# EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -20,7 +19,7 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 
 PROCEDURE:
-a.   KVL:https://github.com/Abhilashttps://github.com/Abhilash4343/EXP-1/blob/9839d44df4c54c1c8db3dcfad3cd9cb161f5b2e3/Screenshot%202026-10-21%20113237.pnghttps://github.com/Abhilash4343/EXP-1/blob/9839d44df4c54c1c8db3dcfad3cd9cb161f5b2e3/Screenshot%202026-10-21%20113237.pngh4343/EXP-1/blob/9839d44df4c54c1c8db3dcfad3cd9cb161f5b2e3/Screenshot%202026-10-21%20113237.png
+a.  KVL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
 3.   Check all the meters for null position.
