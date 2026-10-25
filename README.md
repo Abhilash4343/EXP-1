@@ -82,7 +82,7 @@ a.   KVL:
 
 
 b.  KCL:
-
+  ![image alt](https://github.com/Abhilash4343/EXP-1/blob/b0ba8034681891b8ed727505ec94f89600d71944/WhatsApp%20Image%202026-10-25%20at%206.04.57%20PM%20(1).jpeg)
 
 
 RESULT:
