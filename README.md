@@ -63,11 +63,11 @@ b.  KCL:
 
  OUTPUT
 
- a.KVL simulation output:
+a.KVL simulation output:
 
 
 
-b.KCL simulation output
+b.KCL simulation output:
  
 
 
