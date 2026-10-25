@@ -55,7 +55,7 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
- 
+ ![image alt](https://github.com/Abhilash4343/EXP-1/blob/f86e530d21a9e7419ec2207b0bfdad9195a06c0a/WhatsApp%20Image%202026-10-25%20at%205.35.55%20PM.jpeg)
 
 
 b.  KCL:
