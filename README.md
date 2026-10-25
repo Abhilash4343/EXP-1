@@ -60,6 +60,7 @@ a.   KVL:
 
 b.  KCL:
  ![image alt](https://github.com/Abhilash4343/EXP-1/blob/ca345a9d699a387753686ecc3cc31588bf0d0336/WhatsApp%20Image%202026-10-25%20at%205.35.58%20PM.jpeg)
+ ![image alt](https://github.com/Abhilash4343/EXP-1/blob/d04f960b07661878ed088402ac83b9d424f9b0c8/WhatsApp%20Image%202026-10-25%20at%205.36.01%20PM.jpeg)
 
 
 
