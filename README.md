@@ -69,7 +69,7 @@ a.KVL simulation output:
 
 
 b.KCL simulation output:
- ![image alt](https://github.com/Abhilash4343/EXP-1/blob/7127a66ae28957b82bb8a753efcf23241cd67df3/Screenshot%202026-10-21%20133344.png)
+ ![image alt](https://github.com/Abhilash4343/EXP-1/blob/7db1a7d2944dd3f0651ce11496844dd243cc303b/Screenshot%202026-10-21%20200554.png)
  
 
 
