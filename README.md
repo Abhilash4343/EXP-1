@@ -49,6 +49,7 @@ a.   KVL:
 
 
 b.  KCL:
+![image alt](https://github.com/Abhilash4343/EXP-1/blob/78ca6889465d42b53931c7d0f7fe39439d236f12/Screenshot%202026-10-21%20133344.png)
  
 
 Calculation:
