@@ -78,7 +78,7 @@ b.KCL simulation output:
 Tabulation:
 
 a.   KVL:
- 
+  ![image alt](https://github.com/Abhilash4343/EXP-1/blob/199f2d9c59daffa81a5176445434b29c5ba5bfab/WhatsApp%20Image%202026-10-25%20at%206.04.57%20PM.jpeg)
 
 
 b.  KCL:
